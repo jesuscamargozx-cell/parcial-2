@@ -1,0 +1,14 @@
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.exe
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.deps.json
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.runtimeconfig.json
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.dll
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.pdb
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.AssemblyInfo.cs
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.dll
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\refint\PLANAZO-POO-CSharp.dll
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.pdb
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.genruntimeconfig.cache
+C:\Users\pc\Downloads\PLANAZO-POO-CSharp\PLANAZO-POO-CSharp\obj\Debug\net8.0\ref\PLANAZO-POO-CSharp.dll
